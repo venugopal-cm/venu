@@ -1,0 +1,5 @@
+import time
+X1=1000
+X2=2000
+res1=X1*X2
+print("The mult is :",res1)
